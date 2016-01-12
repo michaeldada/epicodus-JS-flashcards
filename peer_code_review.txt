@@ -1,0 +1,9 @@
+Site looks great~
+
+code is very clean
+
+liked having instructions at top of page
+
+there may be a way to consolidate some of the repetitive code in jQuery
+
+good job!
