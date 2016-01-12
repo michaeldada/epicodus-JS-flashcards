@@ -1,0 +1,21 @@
+body {
+  background-color: #E7C6F7;
+}
+
+.initially-hidden {
+  display: none;
+}
+
+.container {
+  text-align: center;
+}
+
+p {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+.row {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
